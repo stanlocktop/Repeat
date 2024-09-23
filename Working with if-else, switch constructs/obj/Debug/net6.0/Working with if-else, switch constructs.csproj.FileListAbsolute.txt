@@ -1,0 +1,14 @@
+D:\C#\Working with if-else, switch constructs\bin\Debug\net6.0\Working with if-else, switch constructs.exe
+D:\C#\Working with if-else, switch constructs\bin\Debug\net6.0\Working with if-else, switch constructs.deps.json
+D:\C#\Working with if-else, switch constructs\bin\Debug\net6.0\Working with if-else, switch constructs.runtimeconfig.json
+D:\C#\Working with if-else, switch constructs\bin\Debug\net6.0\Working with if-else, switch constructs.dll
+D:\C#\Working with if-else, switch constructs\bin\Debug\net6.0\Working with if-else, switch constructs.pdb
+D:\C#\Working with if-else, switch constructs\obj\Debug\net6.0\Working with if-else, switch constructs.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Working with if-else, switch constructs\obj\Debug\net6.0\Working with if-else, switch constructs.AssemblyInfoInputs.cache
+D:\C#\Working with if-else, switch constructs\obj\Debug\net6.0\Working with if-else, switch constructs.AssemblyInfo.cs
+D:\C#\Working with if-else, switch constructs\obj\Debug\net6.0\Working with if-else, switch constructs.csproj.CoreCompileInputs.cache
+D:\C#\Working with if-else, switch constructs\obj\Debug\net6.0\Working with if-else, switch constructs.dll
+D:\C#\Working with if-else, switch constructs\obj\Debug\net6.0\refint\Working with if-else, switch constructs.dll
+D:\C#\Working with if-else, switch constructs\obj\Debug\net6.0\Working with if-else, switch constructs.pdb
+D:\C#\Working with if-else, switch constructs\obj\Debug\net6.0\Working with if-else, switch constructs.genruntimeconfig.cache
+D:\C#\Working with if-else, switch constructs\obj\Debug\net6.0\ref\Working with if-else, switch constructs.dll
