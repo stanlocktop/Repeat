@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\Working with if-else, switch constructs\\Working with if-else, switch constructs.csproj": {}
+    "D:\\C#\\Array\\Array.csproj": {}
   },
   "projects": {
-    "D:\\C#\\Working with if-else, switch constructs\\Working with if-else, switch constructs.csproj": {
+    "D:\\C#\\Array\\Array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Working with if-else, switch constructs\\Working with if-else, switch constructs.csproj",
-        "projectName": "Working with if-else, switch constructs",
-        "projectPath": "D:\\C#\\Working with if-else, switch constructs\\Working with if-else, switch constructs.csproj",
+        "projectUniqueName": "D:\\C#\\Array\\Array.csproj",
+        "projectName": "Array",
+        "projectPath": "D:\\C#\\Array\\Array.csproj",
         "packagesPath": "C:\\Users\\wlad-\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Working with if-else, switch constructs\\obj\\",
+        "outputPath": "D:\\C#\\Array\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wlad-\\AppData\\Roaming\\NuGet\\NuGet.Config",
